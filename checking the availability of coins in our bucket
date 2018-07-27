@@ -1,0 +1,2 @@
+//to check of the amount of a thing that eists in a set of things we will need a nested loop
+//one for the set -outer loop- , the other for the thing we are searching for -inner loop-
